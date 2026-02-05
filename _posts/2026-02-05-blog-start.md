@@ -1,5 +1,4 @@
 title: "First post | Quality"
-date: 2022-07-14 17:00:00 +/-TTTT
 categories: [도메인 지식 | Domain Knowledge]
 tags: [lg-aimers, quality, deep-learning]
 math: true
